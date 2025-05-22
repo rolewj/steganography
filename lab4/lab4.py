@@ -125,11 +125,26 @@ def extract_imnp(stego: QImage, msg_length: int):
     return bits[:total_bits]
 
 def compute_capacity(cover: QImage):
-    width, height = cover.width(), cover.height()
-    total_blocks = (width // 2) * (height // 2)
-    capacity_bits = total_blocks * 3 * 8
-    capacity_bytes = capacity_bits // 8
-    return capacity_bits, capacity_bytes
+    gray = cover.convertToFormat(QImage.Format.Format_Grayscale8)
+    w, h = gray.width(), gray.height()
+    total_bits = 0
+    for y in range(0, h-2, 2):
+        for x in range(0, w-2, 2):
+            # читаем четыре угловых пикселя
+            p00 = gray.pixelColor(x,   y).red()
+            p01 = gray.pixelColor(x+2, y).red()
+            p10 = gray.pixelColor(x,   y+2).red()
+            p11 = gray.pixelColor(x+2, y+2).red()
+            Omin = min(p00, p01, p10, p11)
+            # вычисляем vk для трёх встраиваемых позиций
+            vk1 = ((Omin := Omin) or 1) and (( (Omax:=max(p00,p01,p10,p11)) + ((p00 + p10)//2) )//2 - Omin)
+            vk2 = (Omax + ((p00 + p01)//2))//2 - Omin
+            vk3 = (( (Omax) + ((p01 + p10)//2) )//2) - Omin
+            for vk in (vk1, vk2, vk3):
+                if vk > 1:
+                    total_bits += math.floor(math.log2(vk))
+    return total_bits, total_bits // 8
+
 
 def compute_psnr(cover: QImage, stego: QImage):
     cover_gray = cover.convertToFormat(QImage.Format.Format_Grayscale8)
@@ -174,6 +189,7 @@ class IMNP(QMainWindow):
         self.setCentralWidget(self.tabs)
         self.init_embed_tab()
         self.init_extract_tab()
+        self.init_batch_tab()
 
     def init_embed_tab(self):
         self.tab_embed = QWidget()
@@ -279,6 +295,31 @@ class IMNP(QMainWindow):
         layout_embedded.addWidget(self.lbl_embedded_display)
         image_layout.addWidget(group_embedded)
         main_layout.addWidget(image_panel, 1)
+
+    def init_batch_tab(self):
+        self.tab_batch = QWidget()
+        self.tabs.addTab(self.tab_batch, "Задание 4")
+        layout = QVBoxLayout(self.tab_batch)
+        hl = QHBoxLayout()
+        btn_in = QPushButton("Входная папка")
+        btn_in.clicked.connect(self.select_input_folder)
+        self.lbl_input = QLabel("Не выбрано")
+        hl.addWidget(btn_in)
+        hl.addWidget(self.lbl_input)
+        layout.addLayout(hl)
+        hl2 = QHBoxLayout()
+        btn_out = QPushButton("Выходная папка")
+        btn_out.clicked.connect(self.select_output_folder)
+        self.lbl_output = QLabel("Не выбрано")
+        hl2.addWidget(btn_out)
+        hl2.addWidget(self.lbl_output)
+        layout.addLayout(hl2)
+        self.txt_percents = QPlainTextEdit()
+        self.txt_percents.setPlaceholderText("10,50,100")
+        layout.addWidget(self.txt_percents)
+        btn_run = QPushButton("Старт")
+        btn_run.clicked.connect(self.run_batch_embedding)
+        layout.addWidget(btn_run)
 
     def select_cover_image(self):
         file_path, _ = QFileDialog.getOpenFileName(
@@ -471,6 +512,40 @@ class IMNP(QMainWindow):
         layout.addWidget(buttons)
         dialog.exec()
 
+    def select_input_folder(self):
+        folder = QFileDialog.getExistingDirectory(self, "Выберите входную папку")
+        if folder:
+            self.input_dir = folder
+            self.lbl_input.setText(folder)
+
+    def select_output_folder(self):
+        folder = QFileDialog.getExistingDirectory(self, "Выберите выходную папку")
+        if folder:
+            self.output_dir = folder
+            self.lbl_output.setText(folder)
+
+    def run_batch_embedding(self):
+        if not hasattr(self, 'input_dir') or not hasattr(self, 'output_dir') or not self.txt_percents.toPlainText():
+            QMessageBox.warning(self, "Ошибка", "Укажите все параметры")
+            return
+        percents = [int(p) for p in self.txt_percents.toPlainText().split(',') if p.strip().isdigit()]
+        os.makedirs(self.output_dir, exist_ok=True)
+        for fn in os.listdir(self.input_dir):
+            path = os.path.join(self.input_dir, fn)
+            img = QImage(path)
+            if img.isNull(): continue
+            cap_bits, _ = compute_capacity(img)
+            base, ext = os.path.splitext(fn)
+            fmt = ext.lstrip('.').upper()
+            for p in percents:
+                n = cap_bits * p // 100
+                bits = [0] * n
+                result_image, inter_img, used_idx = embed_imnp(img, bits)
+                out = os.path.join(self.output_dir, f"{base}_lab4_stego_{p}.{fmt}")
+                result_image.save(out, fmt)
+        QMessageBox.information(self, "OK", "Генерация завершена")
+
+            
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = IMNP()

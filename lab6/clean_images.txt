@@ -1,0 +1,250 @@
+Файл: /Users/revolution/Downloads/stega/images/800.bmp
+Среднее значение Хи-квадрат: 5431.5137
+AUMP beta: 5.0199
+RS-анализ: 0.0349
+
+Файл: /Users/revolution/Downloads/stega/images/801.bmp
+Среднее значение Хи-квадрат: 2049.5352
+AUMP beta: 1.1228
+RS-анализ: 0.0492
+
+Файл: /Users/revolution/Downloads/stega/images/802.bmp
+Среднее значение Хи-квадрат: 2252.9473
+AUMP beta: 0.9838
+RS-анализ: 0.1104
+
+Файл: /Users/revolution/Downloads/stega/images/803.bmp
+Среднее значение Хи-квадрат: 4401.1016
+AUMP beta: 1.2054
+RS-анализ: 0.0128
+
+Файл: /Users/revolution/Downloads/stega/images/804.bmp
+Среднее значение Хи-квадрат: 5861.6992
+AUMP beta: 1.9035
+RS-анализ: 0.0138
+
+Файл: /Users/revolution/Downloads/stega/images/805.bmp
+Среднее значение Хи-квадрат: 7866.0605
+AUMP beta: 5.3026
+RS-анализ: 0.0631
+
+Файл: /Users/revolution/Downloads/stega/images/806.bmp
+Среднее значение Хи-квадрат: 1625.1367
+AUMP beta: 2.3429
+RS-анализ: 0.2601
+
+Файл: /Users/revolution/Downloads/stega/images/807.bmp
+Среднее значение Хи-квадрат: 4346.8574
+AUMP beta: 0.0293
+RS-анализ: 0.0292
+
+Файл: /Users/revolution/Downloads/stega/images/808.bmp
+Среднее значение Хи-квадрат: 6497.2051
+AUMP beta: 0.4502
+RS-анализ: 0.0057
+
+Файл: /Users/revolution/Downloads/stega/images/809.bmp
+Среднее значение Хи-квадрат: 3933.5508
+AUMP beta: 0.4050
+RS-анализ: 0.0060
+
+Файл: /Users/revolution/Downloads/stega/images/810.bmp
+Среднее значение Хи-квадрат: 10540.9805
+AUMP beta: 4.0983
+RS-анализ: 0.0435
+
+Файл: /Users/revolution/Downloads/stega/images/811.bmp
+Среднее значение Хи-квадрат: 3749.3027
+AUMP beta: 1.1987
+RS-анализ: 0.0081
+
+Файл: /Users/revolution/Downloads/stega/images/812.bmp
+Среднее значение Хи-квадрат: 5178.3613
+AUMP beta: 2.4643
+RS-анализ: 0.0430
+
+Файл: /Users/revolution/Downloads/stega/images/813.bmp
+Среднее значение Хи-квадрат: 4374.4668
+AUMP beta: 1.3120
+RS-анализ: 0.0417
+
+Файл: /Users/revolution/Downloads/stega/images/814.bmp
+Среднее значение Хи-квадрат: 4659.5898
+AUMP beta: 0.0239
+RS-анализ: 0.0480
+
+Файл: /Users/revolution/Downloads/stega/images/815.bmp
+Среднее значение Хи-квадрат: 3112.9648
+AUMP beta: 1.4726
+RS-анализ: 0.0196
+
+Файл: /Users/revolution/Downloads/stega/images/816.bmp
+Среднее значение Хи-квадрат: 5917.7441
+AUMP beta: 1.7366
+RS-анализ: 0.0314
+
+Файл: /Users/revolution/Downloads/stega/images/817.bmp
+Среднее значение Хи-квадрат: 5248.7441
+AUMP beta: 1.7002
+RS-анализ: 0.0022
+
+Файл: /Users/revolution/Downloads/stega/images/818.bmp
+Среднее значение Хи-квадрат: 1774.9648
+AUMP beta: 1.0242
+RS-анализ: 0.0091
+
+Файл: /Users/revolution/Downloads/stega/images/819.bmp
+Среднее значение Хи-квадрат: 4361.1699
+AUMP beta: 3.3313
+RS-анализ: 0.0453
+
+Файл: /Users/revolution/Downloads/stega/images/820.bmp
+Среднее значение Хи-квадрат: 1114.3613
+AUMP beta: 0.6687
+RS-анализ: 0.3511
+
+Файл: /Users/revolution/Downloads/stega/images/821.bmp
+Среднее значение Хи-квадрат: 4339.5801
+AUMP beta: 1.2304
+RS-анализ: 0.0612
+
+Файл: /Users/revolution/Downloads/stega/images/822.bmp
+Среднее значение Хи-квадрат: 2386.2773
+AUMP beta: 0.7233
+RS-анализ: 0.0071
+
+Файл: /Users/revolution/Downloads/stega/images/823.bmp
+Среднее значение Хи-квадрат: 5019.7480
+AUMP beta: 0.3813
+RS-анализ: 0.0076
+
+Файл: /Users/revolution/Downloads/stega/images/824.bmp
+Среднее значение Хи-квадрат: 8164.6484
+AUMP beta: 0.5848
+RS-анализ: 0.0022
+
+Файл: /Users/revolution/Downloads/stega/images/825.bmp
+Среднее значение Хи-квадрат: 3607.2285
+AUMP beta: 1.0392
+RS-анализ: 0.0273
+
+Файл: /Users/revolution/Downloads/stega/images/826.bmp
+Среднее значение Хи-квадрат: 3784.5859
+AUMP beta: 1.1833
+RS-анализ: 0.0253
+
+Файл: /Users/revolution/Downloads/stega/images/827.bmp
+Среднее значение Хи-квадрат: 4660.8086
+AUMP beta: 0.9526
+RS-анализ: 0.0068
+
+Файл: /Users/revolution/Downloads/stega/images/828.bmp
+Среднее значение Хи-квадрат: 3766.2910
+AUMP beta: 1.6164
+RS-анализ: 0.0181
+
+Файл: /Users/revolution/Downloads/stega/images/829.bmp
+Среднее значение Хи-квадрат: 6740.2637
+AUMP beta: 0.9907
+RS-анализ: 0.0144
+
+Файл: /Users/revolution/Downloads/stega/images/830.bmp
+Среднее значение Хи-квадрат: 9355.6543
+AUMP beta: 3.3189
+RS-анализ: 0.0252
+
+Файл: /Users/revolution/Downloads/stega/images/831.bmp
+Среднее значение Хи-квадрат: 2137.5898
+AUMP beta: 1.2702
+RS-анализ: 0.0249
+
+Файл: /Users/revolution/Downloads/stega/images/832.bmp
+Среднее значение Хи-квадрат: 5867.7461
+AUMP beta: 0.9804
+RS-анализ: 0.0001
+
+Файл: /Users/revolution/Downloads/stega/images/833.bmp
+Среднее значение Хи-квадрат: 3111.4863
+AUMP beta: 2.2111
+RS-анализ: 0.0041
+
+Файл: /Users/revolution/Downloads/stega/images/834.bmp
+Среднее значение Хи-квадрат: 4843.0059
+AUMP beta: 1.0046
+RS-анализ: 0.0198
+
+Файл: /Users/revolution/Downloads/stega/images/835.bmp
+Среднее значение Хи-квадрат: 3846.8125
+AUMP beta: 1.5488
+RS-анализ: 0.0897
+
+Файл: /Users/revolution/Downloads/stega/images/836.bmp
+Среднее значение Хи-квадрат: 1935.5801
+AUMP beta: 0.1028
+RS-анализ: 0.0663
+
+Файл: /Users/revolution/Downloads/stega/images/837.bmp
+Среднее значение Хи-квадрат: 11084.3906
+AUMP beta: 0.7526
+RS-анализ: 0.0060
+
+Файл: /Users/revolution/Downloads/stega/images/838.bmp
+Среднее значение Хи-квадрат: 5252.3203
+AUMP beta: 0.3345
+RS-анализ: 0.0054
+
+Файл: /Users/revolution/Downloads/stega/images/839.bmp
+Среднее значение Хи-квадрат: 2811.0664
+AUMP beta: 1.4605
+RS-анализ: 0.0487
+
+Файл: /Users/revolution/Downloads/stega/images/840.bmp
+Среднее значение Хи-квадрат: 1999.5508
+AUMP beta: 1.6254
+RS-анализ: 0.1132
+
+Файл: /Users/revolution/Downloads/stega/images/841.bmp
+Среднее значение Хи-квадрат: 5744.2656
+AUMP beta: 0.9182
+RS-анализ: 0.0053
+
+Файл: /Users/revolution/Downloads/stega/images/842.bmp
+Среднее значение Хи-квадрат: 5076.6250
+AUMP beta: 0.5129
+RS-анализ: 0.0184
+
+Файл: /Users/revolution/Downloads/stega/images/843.bmp
+Среднее значение Хи-квадрат: 5386.5156
+AUMP beta: 0.3975
+RS-анализ: 0.0007
+
+Файл: /Users/revolution/Downloads/stega/images/844.bmp
+Среднее значение Хи-квадрат: 5762.6172
+AUMP beta: 0.3283
+RS-анализ: 0.0110
+
+Файл: /Users/revolution/Downloads/stega/images/845.bmp
+Среднее значение Хи-квадрат: 12162.4004
+AUMP beta: 0.0155
+RS-анализ: 0.0060
+
+Файл: /Users/revolution/Downloads/stega/images/846.bmp
+Среднее значение Хи-квадрат: 6607.3281
+AUMP beta: 2.0420
+RS-анализ: 0.0487
+
+Файл: /Users/revolution/Downloads/stega/images/847.bmp
+Среднее значение Хи-квадрат: 2514.2402
+AUMP beta: 0.3053
+RS-анализ: 0.0489
+
+Файл: /Users/revolution/Downloads/stega/images/848.bmp
+Среднее значение Хи-квадрат: 1455.1895
+AUMP beta: 1.0849
+RS-анализ: 0.1360
+
+Файл: /Users/revolution/Downloads/stega/images/849.bmp
+Среднее значение Хи-квадрат: 2139.8438
+AUMP beta: 0.6150
+RS-анализ: 0.0103
+

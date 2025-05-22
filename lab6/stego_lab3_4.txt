@@ -1,0 +1,1000 @@
+Файл: /Users/revolution/Downloads/stega/stego/800_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5677.6230
+AUMP beta: 2.9470
+RS-анализ: 0.1211
+
+Файл: /Users/revolution/Downloads/stega/stego/800_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5708.4297
+AUMP beta: 20.1387
+RS-анализ: 0.2813
+
+Файл: /Users/revolution/Downloads/stega/stego/800_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5979.5781
+AUMP beta: 0.9920
+RS-анализ: 0.0060
+
+Файл: /Users/revolution/Downloads/stega/stego/800_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6040.2383
+AUMP beta: 0.3329
+RS-анализ: 0.0049
+
+Файл: /Users/revolution/Downloads/stega/stego/801_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 2155.4961
+AUMP beta: 11.6062
+RS-анализ: 0.2468
+
+Файл: /Users/revolution/Downloads/stega/stego/801_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2322.1680
+AUMP beta: 14.0897
+RS-анализ: 0.2909
+
+Файл: /Users/revolution/Downloads/stega/stego/801_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2423.9102
+AUMP beta: 0.5658
+RS-анализ: 0.0101
+
+Файл: /Users/revolution/Downloads/stega/stego/801_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2545.8398
+AUMP beta: 0.4023
+RS-анализ: 0.0047
+
+Файл: /Users/revolution/Downloads/stega/stego/802_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 2474.8535
+AUMP beta: 5.8264
+RS-анализ: 0.1842
+
+Файл: /Users/revolution/Downloads/stega/stego/802_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2712.5332
+AUMP beta: 16.2222
+RS-анализ: 0.2770
+
+Файл: /Users/revolution/Downloads/stega/stego/802_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2786.0840
+AUMP beta: 0.6838
+RS-анализ: 0.0078
+
+Файл: /Users/revolution/Downloads/stega/stego/802_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2843.1504
+AUMP beta: 0.5932
+RS-анализ: 0.0061
+
+Файл: /Users/revolution/Downloads/stega/stego/803_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4653.8828
+AUMP beta: 25.0011
+RS-анализ: 0.2847
+
+Файл: /Users/revolution/Downloads/stega/stego/803_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4827.7344
+AUMP beta: 26.2608
+RS-анализ: 0.2964
+
+Файл: /Users/revolution/Downloads/stega/stego/803_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4858.1250
+AUMP beta: 0.0183
+RS-анализ: 0.0018
+
+Файл: /Users/revolution/Downloads/stega/stego/803_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4945.1523
+AUMP beta: 0.3328
+RS-анализ: 0.0043
+
+Файл: /Users/revolution/Downloads/stega/stego/804_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 6114.7715
+AUMP beta: 28.3022
+RS-анализ: 0.1710
+
+Файл: /Users/revolution/Downloads/stega/stego/804_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 6161.6328
+AUMP beta: 47.5689
+RS-анализ: 0.2553
+
+Файл: /Users/revolution/Downloads/stega/stego/804_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5999.8945
+AUMP beta: 1.7616
+RS-анализ: 0.0004
+
+Файл: /Users/revolution/Downloads/stega/stego/804_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6077.6133
+AUMP beta: 1.7453
+RS-анализ: 0.0006
+
+Файл: /Users/revolution/Downloads/stega/stego/805_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5552.4160
+AUMP beta: 61.1138
+RS-анализ: 0.5089
+
+Файл: /Users/revolution/Downloads/stega/stego/805_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5776.1758
+AUMP beta: 65.4888
+RS-анализ: 0.5030
+
+Файл: /Users/revolution/Downloads/stega/stego/805_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 8064.6348
+AUMP beta: 4.9599
+RS-анализ: 0.0407
+
+Файл: /Users/revolution/Downloads/stega/stego/805_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 8125.5332
+AUMP beta: 5.1920
+RS-анализ: 0.0299
+
+Файл: /Users/revolution/Downloads/stega/stego/806_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 1821.0664
+AUMP beta: 0.6704
+RS-анализ: 0.1761
+
+Файл: /Users/revolution/Downloads/stega/stego/806_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2009.9102
+AUMP beta: 6.4054
+RS-анализ: 0.2680
+
+Файл: /Users/revolution/Downloads/stega/stego/806_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2133.9844
+AUMP beta: 0.1865
+RS-анализ: 0.0088
+
+Файл: /Users/revolution/Downloads/stega/stego/806_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2234.8828
+AUMP beta: 0.8033
+RS-анализ: 0.0012
+
+Файл: /Users/revolution/Downloads/stega/stego/807_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4721.2520
+AUMP beta: 22.7952
+RS-анализ: 0.2614
+
+Файл: /Users/revolution/Downloads/stega/stego/807_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5115.5547
+AUMP beta: 31.0016
+RS-анализ: 0.3082
+
+Файл: /Users/revolution/Downloads/stega/stego/807_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4828.9922
+AUMP beta: 1.0265
+RS-анализ: 0.0007
+
+Файл: /Users/revolution/Downloads/stega/stego/807_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4818.8789
+AUMP beta: 2.2065
+RS-анализ: 0.0081
+
+Файл: /Users/revolution/Downloads/stega/stego/808_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 6978.9590
+AUMP beta: 15.2037
+RS-анализ: 0.1902
+
+Файл: /Users/revolution/Downloads/stega/stego/808_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 7540.9180
+AUMP beta: 33.7574
+RS-анализ: 0.2811
+
+Файл: /Users/revolution/Downloads/stega/stego/808_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 7487.5176
+AUMP beta: 2.0361
+RS-анализ: 0.0127
+
+Файл: /Users/revolution/Downloads/stega/stego/808_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 7275.5957
+AUMP beta: 1.3220
+RS-анализ: 0.0114
+
+Файл: /Users/revolution/Downloads/stega/stego/809_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 3734.7090
+AUMP beta: 26.3352
+RS-анализ: 0.3001
+
+Файл: /Users/revolution/Downloads/stega/stego/809_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 3943.7891
+AUMP beta: 31.9103
+RS-анализ: 0.3200
+
+Файл: /Users/revolution/Downloads/stega/stego/809_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4268.6914
+AUMP beta: 1.6562
+RS-анализ: 0.0130
+
+Файл: /Users/revolution/Downloads/stega/stego/809_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4326.4961
+AUMP beta: 1.4792
+RS-анализ: 0.0016
+
+Файл: /Users/revolution/Downloads/stega/stego/810_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 10668.4512
+AUMP beta: 11.3504
+RS-анализ: 0.1234
+
+Файл: /Users/revolution/Downloads/stega/stego/810_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 10404.6328
+AUMP beta: 30.0433
+RS-анализ: 0.2291
+
+Файл: /Users/revolution/Downloads/stega/stego/810_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 11575.7109
+AUMP beta: 2.1106
+RS-анализ: 0.0097
+
+Файл: /Users/revolution/Downloads/stega/stego/810_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 11487.4551
+AUMP beta: 1.0741
+RS-анализ: 0.0102
+
+Файл: /Users/revolution/Downloads/stega/stego/811_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4101.0469
+AUMP beta: 17.5580
+RS-анализ: 0.2206
+
+Файл: /Users/revolution/Downloads/stega/stego/811_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4415.4160
+AUMP beta: 23.6652
+RS-анализ: 0.2591
+
+Файл: /Users/revolution/Downloads/stega/stego/811_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4358.7539
+AUMP beta: 0.0190
+RS-анализ: 0.0074
+
+Файл: /Users/revolution/Downloads/stega/stego/811_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4401.2910
+AUMP beta: 1.2847
+RS-анализ: 0.0115
+
+Файл: /Users/revolution/Downloads/stega/stego/812_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4647.2148
+AUMP beta: 37.1474
+RS-анализ: 0.3782
+
+Файл: /Users/revolution/Downloads/stega/stego/812_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4933.6055
+AUMP beta: 42.6377
+RS-анализ: 0.3754
+
+Файл: /Users/revolution/Downloads/stega/stego/812_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5627.7695
+AUMP beta: 3.1503
+RS-анализ: 0.0150
+
+Файл: /Users/revolution/Downloads/stega/stego/812_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 5650.1855
+AUMP beta: 3.1941
+RS-анализ: 0.0139
+
+Файл: /Users/revolution/Downloads/stega/stego/813_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4793.2422
+AUMP beta: 13.7799
+RS-анализ: 0.2266
+
+Файл: /Users/revolution/Downloads/stega/stego/813_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5125.9102
+AUMP beta: 25.4266
+RS-анализ: 0.2856
+
+Файл: /Users/revolution/Downloads/stega/stego/813_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4946.3457
+AUMP beta: 0.2356
+RS-анализ: 0.0043
+
+Файл: /Users/revolution/Downloads/stega/stego/813_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 5008.6914
+AUMP beta: 0.3763
+RS-анализ: 0.0051
+
+Файл: /Users/revolution/Downloads/stega/stego/814_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4719.6738
+AUMP beta: 10.6501
+RS-анализ: 0.2243
+
+Файл: /Users/revolution/Downloads/stega/stego/814_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5008.5859
+AUMP beta: 27.5190
+RS-анализ: 0.3192
+
+Файл: /Users/revolution/Downloads/stega/stego/814_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5841.7305
+AUMP beta: 0.2077
+RS-анализ: 0.0051
+
+Файл: /Users/revolution/Downloads/stega/stego/814_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 5795.9199
+AUMP beta: 0.3238
+RS-анализ: 0.0040
+
+Файл: /Users/revolution/Downloads/stega/stego/815_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 3523.8359
+AUMP beta: 21.9650
+RS-анализ: 0.2905
+
+Файл: /Users/revolution/Downloads/stega/stego/815_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 3675.9043
+AUMP beta: 23.0989
+RS-анализ: 0.3014
+
+Файл: /Users/revolution/Downloads/stega/stego/815_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 3448.1992
+AUMP beta: 1.5884
+RS-анализ: 0.0102
+
+Файл: /Users/revolution/Downloads/stega/stego/815_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 3551.5547
+AUMP beta: 1.8067
+RS-анализ: 0.0079
+
+Файл: /Users/revolution/Downloads/stega/stego/816_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4583.5254
+AUMP beta: 47.3893
+RS-анализ: 0.4955
+
+Файл: /Users/revolution/Downloads/stega/stego/816_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4922.6426
+AUMP beta: 53.3933
+RS-анализ: 0.4460
+
+Файл: /Users/revolution/Downloads/stega/stego/816_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 6258.5820
+AUMP beta: 2.2002
+RS-анализ: 0.0098
+
+Файл: /Users/revolution/Downloads/stega/stego/816_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6298.7344
+AUMP beta: 2.0293
+RS-анализ: 0.0062
+
+Файл: /Users/revolution/Downloads/stega/stego/817_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5560.1055
+AUMP beta: 17.9659
+RS-анализ: 0.2302
+
+Файл: /Users/revolution/Downloads/stega/stego/817_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5770.4336
+AUMP beta: 27.0027
+RS-анализ: 0.3024
+
+Файл: /Users/revolution/Downloads/stega/stego/817_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 6158.8672
+AUMP beta: 3.8820
+RS-анализ: 0.0188
+
+Файл: /Users/revolution/Downloads/stega/stego/817_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6198.4570
+AUMP beta: 3.9234
+RS-анализ: 0.0100
+
+Файл: /Users/revolution/Downloads/stega/stego/818_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 1957.2676
+AUMP beta: 5.5581
+RS-анализ: 0.2264
+
+Файл: /Users/revolution/Downloads/stega/stego/818_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2169.6055
+AUMP beta: 11.5814
+RS-анализ: 0.2743
+
+Файл: /Users/revolution/Downloads/stega/stego/818_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2101.6738
+AUMP beta: 1.5688
+RS-анализ: 0.0079
+
+Файл: /Users/revolution/Downloads/stega/stego/818_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2220.6973
+AUMP beta: 1.8894
+RS-анализ: 0.0037
+
+Файл: /Users/revolution/Downloads/stega/stego/819_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4424.0273
+AUMP beta: 20.3857
+RS-анализ: 0.2186
+
+Файл: /Users/revolution/Downloads/stega/stego/819_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4558.4199
+AUMP beta: 29.4649
+RS-анализ: 0.2737
+
+Файл: /Users/revolution/Downloads/stega/stego/819_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4802.7441
+AUMP beta: 1.0147
+RS-анализ: 0.0018
+
+Файл: /Users/revolution/Downloads/stega/stego/819_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4891.8438
+AUMP beta: 0.8910
+RS-анализ: 0.0025
+
+Файл: /Users/revolution/Downloads/stega/stego/820_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 1255.2344
+AUMP beta: 3.3326
+RS-анализ: 0.3190
+
+Файл: /Users/revolution/Downloads/stega/stego/820_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 1386.8809
+AUMP beta: 6.5014
+RS-анализ: 0.3305
+
+Файл: /Users/revolution/Downloads/stega/stego/820_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 1563.8184
+AUMP beta: 3.4539
+RS-анализ: 0.0164
+
+Файл: /Users/revolution/Downloads/stega/stego/820_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 1693.4629
+AUMP beta: 0.9142
+RS-анализ: 0.0037
+
+Файл: /Users/revolution/Downloads/stega/stego/821_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 3895.7695
+AUMP beta: 23.1436
+RS-анализ: 0.2969
+
+Файл: /Users/revolution/Downloads/stega/stego/821_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4010.7598
+AUMP beta: 34.4024
+RS-анализ: 0.3440
+
+Файл: /Users/revolution/Downloads/stega/stego/821_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4776.8691
+AUMP beta: 0.4191
+RS-анализ: 0.0219
+
+Файл: /Users/revolution/Downloads/stega/stego/821_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4862.5332
+AUMP beta: 0.5981
+RS-анализ: 0.0199
+
+Файл: /Users/revolution/Downloads/stega/stego/822_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 2299.6152
+AUMP beta: 19.0631
+RS-анализ: 0.3398
+
+Файл: /Users/revolution/Downloads/stega/stego/822_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2438.4102
+AUMP beta: 22.1502
+RS-анализ: 0.3545
+
+Файл: /Users/revolution/Downloads/stega/stego/822_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2737.5625
+AUMP beta: 0.9646
+RS-анализ: 0.0039
+
+Файл: /Users/revolution/Downloads/stega/stego/822_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2846.6426
+AUMP beta: 0.8285
+RS-анализ: 0.0069
+
+Файл: /Users/revolution/Downloads/stega/stego/823_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5299.0430
+AUMP beta: 18.0493
+RS-анализ: 0.2077
+
+Файл: /Users/revolution/Downloads/stega/stego/823_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5787.9805
+AUMP beta: 31.6253
+RS-анализ: 0.2833
+
+Файл: /Users/revolution/Downloads/stega/stego/823_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5811.1152
+AUMP beta: 0.0661
+RS-анализ: 0.0002
+
+Файл: /Users/revolution/Downloads/stega/stego/823_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 5692.4570
+AUMP beta: 0.0684
+RS-анализ: 0.0026
+
+Файл: /Users/revolution/Downloads/stega/stego/824_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 8273.1680
+AUMP beta: 38.2547
+RS-анализ: 0.2565
+
+Файл: /Users/revolution/Downloads/stega/stego/824_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 8518.3379
+AUMP beta: 47.7846
+RS-анализ: 0.3099
+
+Файл: /Users/revolution/Downloads/stega/stego/824_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 8381.9746
+AUMP beta: 1.0129
+RS-анализ: 0.0113
+
+Файл: /Users/revolution/Downloads/stega/stego/824_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 8431.8164
+AUMP beta: 1.0785
+RS-анализ: 0.0091
+
+Файл: /Users/revolution/Downloads/stega/stego/825_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4007.6211
+AUMP beta: 26.4632
+RS-анализ: 0.2816
+
+Файл: /Users/revolution/Downloads/stega/stego/825_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4284.0957
+AUMP beta: 33.6414
+RS-анализ: 0.3148
+
+Файл: /Users/revolution/Downloads/stega/stego/825_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 3969.9336
+AUMP beta: 1.1853
+RS-анализ: 0.0096
+
+Файл: /Users/revolution/Downloads/stega/stego/825_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4029.2520
+AUMP beta: 1.0035
+RS-анализ: 0.0128
+
+Файл: /Users/revolution/Downloads/stega/stego/826_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4042.8047
+AUMP beta: 4.4094
+RS-анализ: 0.2138
+
+Файл: /Users/revolution/Downloads/stega/stego/826_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4461.8379
+AUMP beta: 19.9241
+RS-анализ: 0.3058
+
+Файл: /Users/revolution/Downloads/stega/stego/826_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4020.6660
+AUMP beta: 1.8965
+RS-анализ: 0.0273
+
+Файл: /Users/revolution/Downloads/stega/stego/826_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4062.2188
+AUMP beta: 0.5361
+RS-анализ: 0.0108
+
+Файл: /Users/revolution/Downloads/stega/stego/827_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5020.6602
+AUMP beta: 12.7906
+RS-анализ: 0.2141
+
+Файл: /Users/revolution/Downloads/stega/stego/827_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5419.1992
+AUMP beta: 30.0346
+RS-анализ: 0.2940
+
+Файл: /Users/revolution/Downloads/stega/stego/827_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5048.2930
+AUMP beta: 1.5224
+RS-анализ: 0.0008
+
+Файл: /Users/revolution/Downloads/stega/stego/827_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 5045.7734
+AUMP beta: 2.0054
+RS-анализ: 0.0073
+
+Файл: /Users/revolution/Downloads/stega/stego/828_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4033.2852
+AUMP beta: 9.0444
+RS-анализ: 0.1859
+
+Файл: /Users/revolution/Downloads/stega/stego/828_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4461.2109
+AUMP beta: 30.2351
+RS-анализ: 0.3123
+
+Файл: /Users/revolution/Downloads/stega/stego/828_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4324.5391
+AUMP beta: 1.0670
+RS-анализ: 0.0130
+
+Файл: /Users/revolution/Downloads/stega/stego/828_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4306.6348
+AUMP beta: 1.0746
+RS-анализ: 0.0131
+
+Файл: /Users/revolution/Downloads/stega/stego/829_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 6968.8105
+AUMP beta: 21.0757
+RS-анализ: 0.2355
+
+Файл: /Users/revolution/Downloads/stega/stego/829_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 7432.3320
+AUMP beta: 31.6659
+RS-анализ: 0.2863
+
+Файл: /Users/revolution/Downloads/stega/stego/829_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 7757.7383
+AUMP beta: 1.2935
+RS-анализ: 0.0125
+
+Файл: /Users/revolution/Downloads/stega/stego/829_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 7629.6504
+AUMP beta: 1.4873
+RS-анализ: 0.0035
+
+Файл: /Users/revolution/Downloads/stega/stego/830_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 6666.4922
+AUMP beta: 61.2086
+RS-анализ: 0.3726
+
+Файл: /Users/revolution/Downloads/stega/stego/830_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 6264.7031
+AUMP beta: 78.1655
+RS-анализ: 0.4388
+
+Файл: /Users/revolution/Downloads/stega/stego/830_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 9574.9121
+AUMP beta: 3.3294
+RS-анализ: 0.0209
+
+Файл: /Users/revolution/Downloads/stega/stego/830_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 9715.3262
+AUMP beta: 3.1303
+RS-анализ: 0.0152
+
+Файл: /Users/revolution/Downloads/stega/stego/831_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 2434.0762
+AUMP beta: 18.5239
+RS-анализ: 0.2302
+
+Файл: /Users/revolution/Downloads/stega/stego/831_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2505.4883
+AUMP beta: 18.7582
+RS-анализ: 0.2367
+
+Файл: /Users/revolution/Downloads/stega/stego/831_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2410.3574
+AUMP beta: 0.0916
+RS-анализ: 0.0100
+
+Файл: /Users/revolution/Downloads/stega/stego/831_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2560.5469
+AUMP beta: 0.1217
+RS-анализ: 0.0055
+
+Файл: /Users/revolution/Downloads/stega/stego/832_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 6099.9355
+AUMP beta: 26.5976
+RS-анализ: 0.1686
+
+Файл: /Users/revolution/Downloads/stega/stego/832_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 6202.3750
+AUMP beta: 47.3630
+RS-анализ: 0.2565
+
+Файл: /Users/revolution/Downloads/stega/stego/832_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5976.6992
+AUMP beta: 0.9134
+RS-анализ: 0.0022
+
+Файл: /Users/revolution/Downloads/stega/stego/832_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6054.4980
+AUMP beta: 0.3171
+RS-анализ: 0.0031
+
+Файл: /Users/revolution/Downloads/stega/stego/833_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 3433.0762
+AUMP beta: 12.9728
+RS-анализ: 0.2475
+
+Файл: /Users/revolution/Downloads/stega/stego/833_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 3688.4492
+AUMP beta: 16.5282
+RS-анализ: 0.2751
+
+Файл: /Users/revolution/Downloads/stega/stego/833_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 3802.6387
+AUMP beta: 3.4494
+RS-анализ: 0.0234
+
+Файл: /Users/revolution/Downloads/stega/stego/833_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 3828.0703
+AUMP beta: 3.1697
+RS-анализ: 0.0138
+
+Файл: /Users/revolution/Downloads/stega/stego/834_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5176.5508
+AUMP beta: 20.8478
+RS-анализ: 0.2154
+
+Файл: /Users/revolution/Downloads/stega/stego/834_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5400.2832
+AUMP beta: 27.0729
+RS-анализ: 0.2624
+
+Файл: /Users/revolution/Downloads/stega/stego/834_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5253.1699
+AUMP beta: 0.8079
+RS-анализ: 0.0139
+
+Файл: /Users/revolution/Downloads/stega/stego/834_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 5340.3984
+AUMP beta: 1.2217
+RS-анализ: 0.0102
+
+Файл: /Users/revolution/Downloads/stega/stego/835_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 4127.2539
+AUMP beta: 19.5938
+RS-анализ: 0.2493
+
+Файл: /Users/revolution/Downloads/stega/stego/835_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 4384.1172
+AUMP beta: 27.6201
+RS-анализ: 0.3029
+
+Файл: /Users/revolution/Downloads/stega/stego/835_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 4382.1289
+AUMP beta: 1.2551
+RS-анализ: 0.0111
+
+Файл: /Users/revolution/Downloads/stega/stego/835_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 4426.5469
+AUMP beta: 3.0130
+RS-анализ: 0.0167
+
+Файл: /Users/revolution/Downloads/stega/stego/836_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 2138.5684
+AUMP beta: 11.4268
+RS-анализ: 0.2911
+
+Файл: /Users/revolution/Downloads/stega/stego/836_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2346.1367
+AUMP beta: 14.9789
+RS-анализ: 0.3128
+
+Файл: /Users/revolution/Downloads/stega/stego/836_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2289.0938
+AUMP beta: 3.5564
+RS-анализ: 0.0173
+
+Файл: /Users/revolution/Downloads/stega/stego/836_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2398.4844
+AUMP beta: 3.4336
+RS-анализ: 0.0091
+
+Файл: /Users/revolution/Downloads/stega/stego/837_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 10202.9453
+AUMP beta: 31.7460
+RS-анализ: 0.2337
+
+Файл: /Users/revolution/Downloads/stega/stego/837_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 10391.7695
+AUMP beta: 33.6131
+RS-анализ: 0.2469
+
+Файл: /Users/revolution/Downloads/stega/stego/837_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 12021.3906
+AUMP beta: 0.3318
+RS-анализ: 0.0029
+
+Файл: /Users/revolution/Downloads/stega/stego/837_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 12068.7344
+AUMP beta: 0.3440
+RS-анализ: 0.0011
+
+Файл: /Users/revolution/Downloads/stega/stego/838_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5433.1719
+AUMP beta: 2.8170
+RS-анализ: 0.1193
+
+Файл: /Users/revolution/Downloads/stega/stego/838_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5688.6191
+AUMP beta: 20.1469
+RS-анализ: 0.2468
+
+Файл: /Users/revolution/Downloads/stega/stego/838_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 6085.4277
+AUMP beta: 2.4979
+RS-анализ: 0.0092
+
+Файл: /Users/revolution/Downloads/stega/stego/838_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6089.7773
+AUMP beta: 4.1315
+RS-анализ: 0.0127
+
+Файл: /Users/revolution/Downloads/stega/stego/839_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 3113.5723
+AUMP beta: 22.1582
+RS-анализ: 0.2493
+
+Файл: /Users/revolution/Downloads/stega/stego/839_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 3370.4980
+AUMP beta: 26.3797
+RS-анализ: 0.2952
+
+Файл: /Users/revolution/Downloads/stega/stego/839_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 3112.5137
+AUMP beta: 1.9510
+RS-анализ: 0.0100
+
+Файл: /Users/revolution/Downloads/stega/stego/839_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 3179.2168
+AUMP beta: 2.5922
+RS-анализ: 0.0080
+
+Файл: /Users/revolution/Downloads/stega/stego/840_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 2172.7520
+AUMP beta: 6.9383
+RS-анализ: 0.1903
+
+Файл: /Users/revolution/Downloads/stega/stego/840_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2327.8906
+AUMP beta: 14.9280
+RS-анализ: 0.2934
+
+Файл: /Users/revolution/Downloads/stega/stego/840_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2499.9414
+AUMP beta: 1.3117
+RS-анализ: 0.0137
+
+Файл: /Users/revolution/Downloads/stega/stego/840_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2615.6660
+AUMP beta: 0.6203
+RS-анализ: 0.0063
+
+Файл: /Users/revolution/Downloads/stega/stego/841_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 3824.1777
+AUMP beta: 62.5899
+RS-анализ: 0.5564
+
+Файл: /Users/revolution/Downloads/stega/stego/841_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 3969.7441
+AUMP beta: 65.2760
+RS-анализ: 0.5041
+
+Файл: /Users/revolution/Downloads/stega/stego/841_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 6072.6465
+AUMP beta: 1.2540
+RS-анализ: 0.0046
+
+Файл: /Users/revolution/Downloads/stega/stego/841_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6191.5586
+AUMP beta: 1.0906
+RS-анализ: 0.0059
+
+Файл: /Users/revolution/Downloads/stega/stego/842_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5025.1387
+AUMP beta: 13.6714
+RS-анализ: 0.1626
+
+Файл: /Users/revolution/Downloads/stega/stego/842_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5240.8418
+AUMP beta: 19.4285
+RS-анализ: 0.2268
+
+Файл: /Users/revolution/Downloads/stega/stego/842_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 5701.8672
+AUMP beta: 0.6244
+RS-анализ: 0.0005
+
+Файл: /Users/revolution/Downloads/stega/stego/842_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 5823.2031
+AUMP beta: 1.5544
+RS-анализ: 0.0019
+
+Файл: /Users/revolution/Downloads/stega/stego/843_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5819.1289
+AUMP beta: 28.8437
+RS-анализ: 0.2459
+
+Файл: /Users/revolution/Downloads/stega/stego/843_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 6278.1953
+AUMP beta: 37.1676
+RS-анализ: 0.2835
+
+Файл: /Users/revolution/Downloads/stega/stego/843_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 6085.4238
+AUMP beta: 1.0366
+RS-анализ: 0.0008
+
+Файл: /Users/revolution/Downloads/stega/stego/843_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 5972.4395
+AUMP beta: 0.6448
+RS-анализ: 0.0016
+
+Файл: /Users/revolution/Downloads/stega/stego/844_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5990.6816
+AUMP beta: 20.1768
+RS-анализ: 0.2298
+
+Файл: /Users/revolution/Downloads/stega/stego/844_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 6441.7832
+AUMP beta: 31.9130
+RS-анализ: 0.2928
+
+Файл: /Users/revolution/Downloads/stega/stego/844_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 6912.6133
+AUMP beta: 0.9172
+RS-анализ: 0.0008
+
+Файл: /Users/revolution/Downloads/stega/stego/844_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6752.4941
+AUMP beta: 0.6217
+RS-анализ: 0.0035
+
+Файл: /Users/revolution/Downloads/stega/stego/845_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 11586.1914
+AUMP beta: 25.5873
+RS-анализ: 0.2283
+
+Файл: /Users/revolution/Downloads/stega/stego/845_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 12189.0898
+AUMP beta: 38.5607
+RS-анализ: 0.2839
+
+Файл: /Users/revolution/Downloads/stega/stego/845_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 13653.5059
+AUMP beta: 0.8064
+RS-анализ: 0.0067
+
+Файл: /Users/revolution/Downloads/stega/stego/845_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 13421.8867
+AUMP beta: 0.8659
+RS-анализ: 0.0058
+
+Файл: /Users/revolution/Downloads/stega/stego/846_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 5505.5117
+AUMP beta: 39.5952
+RS-анализ: 0.4098
+
+Файл: /Users/revolution/Downloads/stega/stego/846_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 5913.6934
+AUMP beta: 54.4381
+RS-анализ: 0.4107
+
+Файл: /Users/revolution/Downloads/stega/stego/846_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 6968.1523
+AUMP beta: 4.2042
+RS-анализ: 0.0217
+
+Файл: /Users/revolution/Downloads/stega/stego/846_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 6963.2051
+AUMP beta: 4.1330
+RS-анализ: 0.0086
+
+Файл: /Users/revolution/Downloads/stega/stego/847_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 2773.7930
+AUMP beta: 4.7232
+RS-анализ: 0.2167
+
+Файл: /Users/revolution/Downloads/stega/stego/847_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2957.6191
+AUMP beta: 16.0543
+RS-анализ: 0.2658
+
+Файл: /Users/revolution/Downloads/stega/stego/847_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2775.8965
+AUMP beta: 0.7363
+RS-анализ: 0.0192
+
+Файл: /Users/revolution/Downloads/stega/stego/847_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2912.6699
+AUMP beta: 0.3455
+RS-анализ: 0.0142
+
+Файл: /Users/revolution/Downloads/stega/stego/848_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 1584.6953
+AUMP beta: 1.1084
+RS-анализ: 0.2250
+
+Файл: /Users/revolution/Downloads/stega/stego/848_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 1804.6719
+AUMP beta: 7.8676
+RS-анализ: 0.3203
+
+Файл: /Users/revolution/Downloads/stega/stego/848_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 1975.9961
+AUMP beta: 0.5952
+RS-анализ: 0.0000
+
+Файл: /Users/revolution/Downloads/stega/stego/848_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2053.2324
+AUMP beta: 0.5925
+RS-анализ: 0.0010
+
+Файл: /Users/revolution/Downloads/stega/stego/849_lab3_stego_50.BMP
+Среднее значение Хи-квадрат: 2353.5957
+AUMP beta: 13.7178
+RS-анализ: 0.1792
+
+Файл: /Users/revolution/Downloads/stega/stego/849_lab3_stego_100.BMP
+Среднее значение Хи-квадрат: 2535.4082
+AUMP beta: 26.6890
+RS-анализ: 0.2435
+
+Файл: /Users/revolution/Downloads/stega/stego/849_lab4_stego_50.BMP
+Среднее значение Хи-квадрат: 2273.1934
+AUMP beta: 1.1080
+RS-анализ: 0.0029
+
+Файл: /Users/revolution/Downloads/stega/stego/849_lab4_stego_100.BMP
+Среднее значение Хи-квадрат: 2391.6406
+AUMP beta: 1.5792
+RS-анализ: 0.0024
+

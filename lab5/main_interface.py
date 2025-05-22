@@ -1,5 +1,7 @@
 import sys, os
 import numpy as np
+import concurrent.futures
+from multiprocessing import cpu_count
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
     QPushButton, QLabel, QFileDialog, QMessageBox, QTabWidget,
@@ -13,6 +15,16 @@ from visual_attack import create_bit_image
 from chi_square import chi_square_analysis
 from rs_analysis import rs_analysis, RSAnalysis
 from aump import aump_analysis
+
+def analyze_single(file_path):
+    norm_path = file_path.replace("\\", "/")
+    image = QImage(norm_path)
+    if image.isNull():
+        return norm_path, None, None, None
+    chi_vals = chi_square_analysis(image)
+    rs_vals  = rs_analysis(image, overlap=True)
+    aump_val = abs(aump_analysis(image))
+    return norm_path, chi_vals.mean(), aump_val, rs_vals[26]
 
 class SteganalysisInterface(QMainWindow):
     def __init__(self):
@@ -57,7 +69,10 @@ class SteganalysisInterface(QMainWindow):
         control_layout.addWidget(self.btn_save_analysis)
 
         control_layout.addStretch(1)
-        main_layout.addWidget(control_panel, 0)
+        scroll_area = QScrollArea(self.tab_analysis)
+        scroll_area.setWidgetResizable(True)
+        scroll_area.setWidget(control_panel)
+        main_layout.addWidget(scroll_area, 0)
 
         self.lbl_analysis_image = QLabel("Нет изображения")
         self.lbl_analysis_image.setFixedSize(400, 400)
@@ -107,7 +122,7 @@ class SteganalysisInterface(QMainWindow):
             np.set_printoptions(threshold=np.inf)
             chi_matrix_text = np.array2string(chi_values, precision=2, separator=", ")
             rs_results = rs_analysis(image, overlap=True)
-            aump_val = aump_analysis(image)
+            aump_val = abs(aump_analysis(image))
             
             analyzer = RSAnalysis(2, 2)
             result_names = analyzer.get_result_names()
@@ -153,29 +168,18 @@ class SteganalysisInterface(QMainWindow):
             dialog.exec()
         else:
             results = ""
-            for file_path in self.analysis_file_paths:
-                image = QImage(file_path)
-                if image.isNull():
-                    results += f"{file_path}: Ошибка загрузки!\n\n"
-                    continue
-                chi_values = chi_square_analysis(image)
-                np.set_printoptions(threshold=np.inf)
-                chi_matrix_text = np.array2string(chi_values, precision=2, separator=", ")
-                rs_results = rs_analysis(image, overlap=True)
-                aump_val = aump_analysis(image)
-                analyzer = RSAnalysis(2,2)
-                result_names = analyzer.get_result_names()
-                rs_text = ""
-                for i, name in enumerate(result_names):
-                    rs_text += f"{name}: {rs_results[i]:.3f}\n"
-                results += (
-                    f"Файл: {os.path.basename(file_path)}\n"
-                    f"  Среднее значение Хи-квадрат: {chi_values.mean():.2f}\n"
-                    f"  Матрица Хи-квадрат: {chi_matrix_text}\n"
-                    f"  AUMP beta: {aump_val:.3f}\n"
-                    f"  RS-анализ:\n{rs_text}"
-                    "---------------------------------------------\n"
-                )
+            print(cpu_count())
+            with concurrent.futures.ProcessPoolExecutor(max_workers=cpu_count()) as executor:
+                for path, chi_mean, aump_val, rs_val in executor.map(analyze_single, self.analysis_file_paths):
+                    if chi_mean is None:
+                        results += f"Файл: {path}\nОшибка загрузки!\n\n"
+                    else:
+                        results += (
+                            f"Файл: {path}\n"
+                            f"Среднее значение Хи-квадрат: {chi_mean:.4f}\n"
+                            f"AUMP beta: {aump_val:.4f}\n"
+                            f"RS-анализ: {rs_val:.4f}\n\n"
+                        )
             self.analysis_results_text = results
             self.txt_analysis_results.setPlainText(results)
             QMessageBox.information(self, "Результаты анализа", "Анализ выполнен для выбранных изображений.")

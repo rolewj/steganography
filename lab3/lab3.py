@@ -81,13 +81,15 @@ def embed_lsb_matching_revisited(cover: QImage, bits: list[int]):
     result = QImage(cover_gray)
     bit_index = 0
     for i in range(total_pairs):
+        if bit_index >= len(bits):
+            break
         idx1 = 2 * i
         idx2 = 2 * i + 1
         y1, x1 = idx1 // width, idx1 % width
         y2, x2 = idx2 // width, idx2 % width
         pixel1 = result.pixelColor(x1, y1).red()
         pixel2 = result.pixelColor(x2, y2).red()
-        m1 = bits[bit_index] if bit_index < len(bits) else 0
+        m1 = bits[bit_index]
         bit_index += 1
         m2 = bits[bit_index] if bit_index < len(bits) else 0
         bit_index += 1
@@ -179,6 +181,7 @@ class LSBMR(QMainWindow):
         self.setCentralWidget(self.tabs)
         self.init_embed_tab()
         self.init_extract_tab()
+        self.init_batch_tab()
 
     def init_embed_tab(self):
         self.tab_embed = QWidget()
@@ -284,6 +287,31 @@ class LSBMR(QMainWindow):
         layout_embedded.addWidget(self.lbl_embedded_display)
         image_layout.addWidget(group_embedded)
         main_layout.addWidget(image_panel, 1)
+
+    def init_batch_tab(self):
+        self.tab_batch = QWidget()
+        self.tabs.addTab(self.tab_batch, "Задание 6")
+        layout = QVBoxLayout(self.tab_batch)
+        hl = QHBoxLayout()
+        btn_in = QPushButton("Входная папка")
+        btn_in.clicked.connect(self.select_input_folder)
+        self.lbl_input = QLabel("Не выбрано")
+        hl.addWidget(btn_in)
+        hl.addWidget(self.lbl_input)
+        layout.addLayout(hl)
+        hl2 = QHBoxLayout()
+        btn_out = QPushButton("Выходная папка")
+        btn_out.clicked.connect(self.select_output_folder)
+        self.lbl_output = QLabel("Не выбрано")
+        hl2.addWidget(btn_out)
+        hl2.addWidget(self.lbl_output)
+        layout.addLayout(hl2)
+        self.txt_percents = QPlainTextEdit()
+        self.txt_percents.setPlaceholderText("10,50,100")
+        layout.addWidget(self.txt_percents)
+        btn_run = QPushButton("Старт")
+        btn_run.clicked.connect(self.run_batch_embedding)
+        layout.addWidget(btn_run)
 
     def select_cover_image(self):
         file_path, _ = QFileDialog.getOpenFileName(
@@ -476,6 +504,40 @@ class LSBMR(QMainWindow):
         buttons.rejected.connect(dialog.reject)
         layout.addWidget(buttons)
         dialog.exec()
+
+    def select_input_folder(self):
+        folder = QFileDialog.getExistingDirectory(self, "Выберите входную папку")
+        if folder:
+            self.input_dir = folder
+            self.lbl_input.setText(folder)
+
+    def select_output_folder(self):
+        folder = QFileDialog.getExistingDirectory(self, "Выберите выходную папку")
+        if folder:
+            self.output_dir = folder
+            self.lbl_output.setText(folder)
+
+    def run_batch_embedding(self):
+        if not hasattr(self, 'input_dir') or not hasattr(self, 'output_dir') or not self.txt_percents.toPlainText():
+            QMessageBox.warning(self, "Ошибка", "Укажите все параметры")
+            return
+        percents = [int(p) for p in self.txt_percents.toPlainText().split(',') if p.strip().isdigit()]
+        os.makedirs(self.output_dir, exist_ok=True)
+        for fn in os.listdir(self.input_dir):
+            path = os.path.join(self.input_dir, fn)
+            img = QImage(path)
+            if img.isNull(): continue
+            cap_bits, _ = compute_capacity(img)
+            base, ext = os.path.splitext(fn)
+            fmt = ext.lstrip('.').upper()
+            for p in percents:
+                n = cap_bits * p // 100
+                bits = [0] * n
+                stego, _ = embed_lsb_matching_revisited(img, bits)
+                out = os.path.join(self.output_dir, f"{base}_lab3_stego_{p}.{fmt}")
+                stego.save(out, fmt)
+        QMessageBox.information(self, "OK", "Генерация завершена")
+
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

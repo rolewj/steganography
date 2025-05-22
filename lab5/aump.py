@@ -1,7 +1,7 @@
 import numpy as np
 from PyQt6.QtGui import QImage, QColor
 
-def aump_analysis(image: QImage, m: int = 8, d: int = 1) -> float:
+def aump_analysis(image: QImage, m: int = 16, d: int = 2) -> float:
     arr = np.zeros((image.height(), image.width()), dtype=np.float64)
     for y in range(image.height()):
         for x in range(image.width()):
